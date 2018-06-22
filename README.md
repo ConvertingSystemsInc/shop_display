@@ -11,6 +11,12 @@ To start the test server and make it available to other machines on the network,
 
 `python3 manage.py runserver 0.0.0.0:8000`
 
+I set up a mock up page that can be used for testing layout ideas. it is available at the path /workorders/mockup
+
+for example:
+
+127.0.0.1:8000/workorders/mockup
+
 ## How to build this project
 ---
 ---
@@ -87,3 +93,5 @@ At this point, the project should be ready to run. For help with django, see the
 [Deploying a django project with apache on a raspberry pi](https://mikesmithers.wordpress.com/2017/02/21/configuring-django-with-apache-on-a-raspberry-pi/)
 
 [Django 2.0 documentation](https://docs.djangoproject.com/en/2.0/)
+
+[Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
