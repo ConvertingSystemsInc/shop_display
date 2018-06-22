@@ -4,6 +4,13 @@
 
 This project is a simple internal website for displaying useful information on a large TV on the shop floor.
 
+## How to run this project
+---
+
+To start the test server and make it available to other machines on the network, run
+
+`python3 manage.py runserver 0.0.0.0:8000`
+
 ## How to build this project
 ---
 ---

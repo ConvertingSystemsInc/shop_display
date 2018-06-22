@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'raspberrypi.local',
+    '127.0.0.1',
 ]
 
 
@@ -40,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'shop_display',
+    'workorder_app',
 ]
 
 MIDDLEWARE = [
