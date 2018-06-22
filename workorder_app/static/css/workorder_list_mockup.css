@@ -3,8 +3,14 @@
     text-align: center;
 }
 
+.featured-project {
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(17, 85, 161);
+}
+
 .feature-thumbnail {
-    float: left;
+    /*float: left;*/
 }
 
 .feature-title {
